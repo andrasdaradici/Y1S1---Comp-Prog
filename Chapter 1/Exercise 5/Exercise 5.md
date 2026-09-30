@@ -18,4 +18,5 @@ The statement prints the following
 ```
 3
 8
+9
 ```
