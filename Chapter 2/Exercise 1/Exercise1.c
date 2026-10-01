@@ -1,5 +1,5 @@
 /*
-Write a function named max2 that returns the maximum of two double values
+Write a function named max2 that returns the maximum of two double values.
 */
 #include <stdio.h>
 

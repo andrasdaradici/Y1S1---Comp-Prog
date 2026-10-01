@@ -1,6 +1,5 @@
 /*
-Write a C function named triple that receives an integer and returns three times
-its value.
+Write a C function named triple that receives an integer and returns three times its value.
 */
 
 #include <stdio.h>

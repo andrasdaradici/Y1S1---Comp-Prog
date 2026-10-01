@@ -1,6 +1,5 @@
 /*
-Write a C function named avg2 that receives two double values and returns their
-arithmetic mean.
+Write a C function named avg2 that receives two double values and returns their arithmetic mean.
 */
 
 #include <stdio.h>
