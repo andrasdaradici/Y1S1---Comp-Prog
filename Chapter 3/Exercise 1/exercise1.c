@@ -3,7 +3,6 @@ Write a function int isdigit2(int c) that returns nonzero if c is a digit charac
 */
 
 #include <stdio.h>
-#include <ctype.h>
 
 int isdigit2(int c)
 {
